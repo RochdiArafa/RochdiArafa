@@ -11,7 +11,7 @@ I'm Rachid, a 26 years old web & mobile developer from Tunisia.
 - 👨‍💻 Ionic 3+, Angular 4+, Symfony 3+
 - ⚙️ Node, Spring Boot
 - 👁️ SASS, CSS
-- 💽 MySQL, MongoDB , Oracle
+- 💽 MySQL, MongoDB , Oracle , Firebase
 
 ## Contact
 - https://www.linkedin.com/in/rachid-arafa/
